@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owzl&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=owzl&show_icons=true">
 
 
 <!--## Hi there 👋-->
