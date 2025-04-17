@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 <!--![owzl's GitHub stats](https://github-readme-stats.vercel.app/api?username=owzl&count_private=true)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owzl&layout=compact)]
